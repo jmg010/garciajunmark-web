@@ -136,7 +136,7 @@ section {
 /* home section */
 
 #home {
-  background-image: url(/images/pexels-nextvoyage-1470405.jpg);
+  background-image: url(./images/pexels-nextvoyage-1470405.jpg);
   background-size: cover;
   color: aliceblue;
   display: flex;
@@ -246,7 +246,7 @@ section {
 
 #about {
   z-index: -1;
-  background-image: url(/images/city.jpg);
+  background-image: url(./images/city.jpg);
   background-size: cover;
   color: aliceblue;
   padding: 0 10%;
